@@ -28,11 +28,11 @@ Class: Cis106
 
 ## Commands to navigate the file system
 
-| Command | WHat it does                               | Syntax | Example |
-| ------- | ------------------------------------------ | ------ | ------- |
-| pwd     | Prints current directory.                  | `pwd`  | `pwd`   |
-| cd      | Change the current directory               | `cd`   | `cd ~/Downloads`    |
-| ls      | List the content of the present directory. | `ls`   | `ls -1x`    |
+| Command | WHat it does                               | Syntax | Example          |
+| ------- | ------------------------------------------ | ------ | ---------------- |
+| pwd     | Prints current directory.                  | `pwd`  | `pwd`            |
+| cd      | Change the current directory               | `cd`   | `cd ~/Downloads` |
+| ls      | List the content of the present directory. | `ls`   | `ls -1x`         |
 
    
    
