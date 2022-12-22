@@ -25,7 +25,7 @@ Cis 106
 ##### Here I'm checking the status of my ssh.
 
 ![Deliverable2](Website.1.png)
-##### Here I choosed a free website template. I copy the link and using a git command I unzip it and created my website.
+##### Here I choosed a free website template. I copied the link and using a git command I unzip it and created my website.
 ![Deliverable2](Website.2.png)
 ##### As you can see my private website is done.
 ![Deliverable2](website.3.png)
