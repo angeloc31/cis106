@@ -6,9 +6,11 @@ Class: Cis 106
 ## Read the tutorial. Write down every concept you don’t understand and research them.
 
 ## HTTP traffic: 
+
 ##### It helps to record all the HTTP traffic that passes between the computer and the Internet
 
 ## Virtual Hosts: 
+
 ##### Virtual Host refers to the practice of running more than one web site (such as company1.example.com and company2.example.com ) on a single machine.
 
 ## nano: 
@@ -24,11 +26,26 @@ Class: Cis 106
 
 ## What are some different web server applications?
 
-1. Apache HTTP Server.
-2. Microsoft Internet Information Services (IIS).
-3. Nginx. 
-4. Lighttpd.
-5. Sun Java System Web Server.
+## Apache HTTP Server.
+
+ ##### Apache is a free and open-source software that allows users to deploy their websites on the internet. It is one of the oldest and most reliable
+
+## Microsoft Internet Information Services (IIS).
+
+## What is Microsoft IIS used for?
+##### Internet Information Services, also known as IIS, is a Microsoft web server that runs on Windows operating system and is used to exchange static and dynamic web content with internet users. IIS can be used to host, deploy, and manage web applications using technologies such as ASP.NET and PHP.
+ 
+ ## What is NGINX used for?
+##### NGINX is open source software for web serving, reverse proxying, caching, load balancing, media streaming, and more. It started out as a web server designed for maximum performance and stability.
+ 
+## Lighttpd.
+ 
+##### Lighttpd is a free, open-source, and high-performance web server designed for speed-critical environments. It is lightweight, secure, fast, and consumes very few resources compared to other web  
+
+## Sun Java System Web Server.
+##### Sun Java System Web Server 6.1 is a multi-process, multi-threaded, secure web server built on open standards. It provides high performance, reliability, scalability, and manageability for enterprise of any size.
+
+
 ## What is virtualization?
 
 ##### Virtualization is technology that lets you create useful IT services using resources that are traditionally bound to hardware.
